@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Board
+comment1.params=
+comment1.target=int\ getPosition()
+comment1.text=\r\n\ Prompts\ the\ user\ to\ set\ a\ number\ position,\ then\ stores\ and\ returns\ the\ position.\ Reprompts\ if\ a\ user\ inputs\ a\ non-integer\r\n\ @return\ the\ user's\ set\ position\ number.\r\n
+comment2.params=pos\ position\ piece
+comment2.target=java.lang.String[]\ setPosition(java.lang.String[],\ int,\ java.lang.String)
+comment2.text=\r\n\ Sets\ a\ user's\ piece\ in\ their\ chosen\ position\ in\ an\ array\ of\ total\ possible\ board\ positions\r\n\ @param\ String[]\ pos\ the\ array\ to\ store\ set\ positions\ in\r\n\ @param\ int\ position\ the\ inputted\ position\ of\ a\ player\r\n\ @param\ String\ piece\ the\ kind\ of\ piece\ the\ player\ set\r\n\ @return\ the\ array\ of\ set/unset\ positions\r\n
+numComments=3

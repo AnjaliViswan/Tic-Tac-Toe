@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Rules
+comment0.text=\r\n\ Checks\ a\ Tic-Tac-Toe\ board\ for\ a\ winner\r\n\ @author\ Anjali\ Viswan\r\n
+comment1.params=pos
+comment1.target=java.lang.String\ isWinner(java.lang.String[])
+comment1.text=\r\n\ Checks\ every\ possible\ '3-in-a-row'\ on\ a\ Tic-Tac-Toe\ board\ for\ a\ winner\r\n\ @param\ String[]\ pos\ the\ array\ of\ total\ set\ and/or\ unset\ board\ positions\r\n\ @return\ either\ the\ piece\ that\ won\ or\ "false"\ for\ no\ winner\r\n
+numComments=2
